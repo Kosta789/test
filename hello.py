@@ -1,5 +1,5 @@
 import requests
 
 
-r = requests.get("https://denikn.cz")
+r = requests.get("https://ihned.cz")
 print(r.status_code)
